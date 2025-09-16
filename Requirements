@@ -1,0 +1,10 @@
+# Core Data Analysis Libraries
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Visualization Libraries
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Jupyter Notebook Support
+jupyter>=1.0.0
